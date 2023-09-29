@@ -57,7 +57,7 @@ module.exports = {
         '20,80,0,80': '20px 80px 0px 80px',
         'search-padding': '10px 247px 10px 16px',
         'search-svg-padding': '1.583px 1.782px 1.781px 1.583px',
-        'card-component-1': '10px 15px',
+        'card-component-1': '0.625rem 0.9375rem',
         'card-component-signup-1': '12px 16px',
         'card-component-signup-2': '80px 20px 20px 20px',
         'tweet-component-frame': '8px 16px',
