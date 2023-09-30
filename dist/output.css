@@ -598,7 +598,7 @@ video {
   height: 3.5rem;
 }
 
-.h-143x {
+.h-143px {
   height: 143px;
 }
 
@@ -616,6 +616,18 @@ video {
 
 .h-6 {
   height: 1.5rem;
+}
+
+.h-login-page-100 {
+  height: 199px;
+}
+
+.h-login-page-icon {
+  height: 9.07738rem;
+}
+
+.h-1px {
+  height: 1px;
 }
 
 .w-12 {
@@ -674,6 +686,18 @@ video {
   width: 100%;
 }
 
+.w-login-page-100 {
+  width: 455px;
+}
+
+.w-login-page-icon {
+  width: 8.50806rem;
+}
+
+.w-172px {
+  width: 172px;
+}
+
 .shrink-0 {
   flex-shrink: 0;
 }
@@ -698,6 +722,10 @@ video {
   align-items: flex-start;
 }
 
+.items-end {
+  align-items: flex-end;
+}
+
 .items-center {
   align-items: center;
 }
@@ -712,6 +740,10 @@ video {
 
 .gap-1 {
   gap: 0.25rem;
+}
+
+.gap-10 {
+  gap: 2.5rem;
 }
 
 .gap-2 {
@@ -847,6 +879,11 @@ video {
   background-color: rgb(24 113 202 / var(--tw-bg-opacity));
 }
 
+.bg-neutral-700 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(64 64 64 / var(--tw-bg-opacity));
+}
+
 .stroke-twitter-blue {
   stroke: #1D9BF0;
 }
@@ -869,6 +906,10 @@ video {
 
 .p-card-component-signup-2 {
   padding: 80px 20px 20px 20px;
+}
+
+.p-login-page {
+  padding: 14.78125rem 10.121rem;
 }
 
 .p-search-padding {
@@ -896,6 +937,11 @@ video {
 .px-6 {
   padding-left: 1.5rem;
   padding-right: 1.5rem;
+}
+
+.px-7 {
+  padding-left: 1.75rem;
+  padding-right: 1.75rem;
 }
 
 .px-93px {
@@ -941,6 +987,16 @@ video {
 
 .font-inter {
   font-family: Inter;
+}
+
+.text-2xl {
+  font-size: 1.5rem;
+  line-height: 2rem;
+}
+
+.text-5xl {
+  font-size: 3rem;
+  line-height: 1;
 }
 
 .text-base {
@@ -1019,26 +1075,6 @@ video {
   --tw-backdrop-blur: blur(24px);
   -webkit-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
           backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);
-}
-
-.placeholder\:text-white::-moz-placeholder {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.placeholder\:text-white::placeholder {
-  --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
-}
-
-.placeholder\:text-neutral-50::-moz-placeholder {
-  --tw-text-opacity: 1;
-  color: rgb(249 249 249 / var(--tw-text-opacity));
-}
-
-.placeholder\:text-neutral-50::placeholder {
-  --tw-text-opacity: 1;
-  color: rgb(249 249 249 / var(--tw-text-opacity));
 }
 
 .focus-within\:border-twitter-blue:focus-within {
