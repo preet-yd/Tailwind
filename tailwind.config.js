@@ -12,7 +12,6 @@ module.exports = {
         'search-bar-fill' : '#212327',
         'card-component' : '#000',
         'card-component-bg' : '#40596A',
-        // 'neutral-700' : '#404040',
 
 
      },
@@ -31,9 +30,8 @@ module.exports = {
         '355px': '355px',
         '143px': '143px',
         '1px': '1px',
-        
         'login-page-icon': '9.07738rem',
-        'login-page-100': '199px',
+        'login-page-100': '12.4375rem',
       },
       width: {
         '334': '20.875rem',
@@ -46,7 +44,7 @@ module.exports = {
         '482px': '482px',
         '598px': '598px',
         'login-page-icon': '8.50806rem',
-        'login-page-100': '455px',
+        'login-page-100': '28.4375rem',
         '172px': '172px',
 
       },
